@@ -1,0 +1,283 @@
+c:\users\michael thomas\desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+c:\users\michael thomas\desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+c:\users\michael thomas\desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+c:\users\michael thomas\desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+c:\users\michael thomas\desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+c:\users\michael thomas\desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+c:\users\michael thomas\desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+c:\users\michael thomas\desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+c:\users\michael thomas\desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+c:\users\michael thomas\desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+c:\users\michael thomas\desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+c:\users\michael thomas\desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+c:\users\michael thomas\desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+c:\users\michael thomas\desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+c:\users\michael thomas\desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\USUB\Desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+C:\Users\USUB\Desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+C:\Users\USUB\Desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+C:\Users\USUB\Desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\USUB\Desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+C:\Users\USUB\Desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+C:\Users\USUB\Desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\USUB\Desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+C:\Users\USUB\Desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+C:\Users\USUB\Desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\WpfTicTacToeObjekt\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToeObjekt_2\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+C:\Users\Michael Thomas\Desktop\WpfTicTacToeObjekt_2\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\WpfTicTacToeObjekt_2\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\Michael Thomas\Desktop\WpfTicTacToeObjekt_2\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToeObjekt_2\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfTicTacToeObjekt_2\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfTicTacToeObjekt_2\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToeObjekt_2\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfTicTacToeObjekt_2\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfTicTacToeObjekt_2\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+C:\Users\Michael Thomas\Desktop\WpfTicTacToeObjekt_2\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfTicTacToeObjekt_2\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToeObjekt_2\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToeObjekt_2\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\WpfTicTacToeObjekt_2\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfTicTacToeObjekt_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfTicTacToeObjekt_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfTicTacToeObjekt_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfTicTacToeObjekt_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfTicTacToeObjekt_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfTicTacToeObjekt_Last\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfTicTacToeObjekt_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfTicTacToeObjekt_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfTicTacToeObjekt_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfTicTacToeObjekt_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfTicTacToeObjekt_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfTicTacToeObjekt_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfTicTacToeObjekt_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfTicTacToeObjekt_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\WpfTicTacToeObjekt_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_1\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_1\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_1\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_1\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_1\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_1\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_1\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_1\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_1\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_1\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_1\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_1\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_1\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_1\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_1\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_3\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+E:\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+E:\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+E:\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+E:\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+E:\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+E:\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+E:\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+E:\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+E:\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+E:\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+E:\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+E:\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+E:\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+E:\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+E:\WpfTicTacToe_KI_4\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\TicTacToe\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\TicTacToe\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\TicTacToe\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\TicTacToe\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\TicTacToe\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\TicTacToe\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\TicTacToe\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\TicTacToe\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\TicTacToe\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\TicTacToe\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\TicTacToe\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\TicTacToe\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\TicTacToe\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\TicTacToe\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\2018_3\ita\c#\TicTacToe\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+C:\Users\USUB\Desktop\WpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\USUB\Desktop\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+C:\Users\USUB\Desktop\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+C:\Users\USUB\Desktop\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\USUB\Desktop\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+C:\Users\USUB\Desktop\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+C:\Users\USUB\Desktop\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+C:\Users\USUB\Desktop\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+C:\Users\USUB\Desktop\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+C:\Users\USUB\Desktop\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\2021_1\ITA\Norwegen C#\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\USUB\Desktop\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+C:\Users\USUB\Desktop\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+C:\Users\USUB\Desktop\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\USUB\Desktop\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+C:\Users\USUB\Desktop\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+C:\Users\USUB\Desktop\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+C:\Users\USUB\Desktop\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+C:\Users\USUB\Desktop\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+C:\Users\USUB\Desktop\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+E:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+E:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+E:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+E:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+E:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+E:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+E:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+E:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+E:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+E:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+E:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+E:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+E:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+E:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+E:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+D:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+D:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+D:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+D:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+D:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+D:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+D:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+D:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+D:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+D:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+D:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.Cache
+D:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+D:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+D:\Überarbeitet\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe.config
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\bin\Debug\WpfTicTacToeObjekt.pdb
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.g.resources
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.exe
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\9fWpfTicTacToe_KI_Last\WpfTicTacToeObjekt\obj\Debug\WpfTicTacToeObjekt.pdb
